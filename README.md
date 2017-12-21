@@ -3,7 +3,8 @@ This repository contains the codes developed as the lab component of the 5 day l
 
 
 **Software:** Matlab;
-**Toolbox:** cvx toolbox [Download Here](http://cvxr.com/cvx/download/);
+**Toolbox:** cvx[Download Here](http://cvxr.com/cvx/download/);
+**Repositories**:
 
 ## Files
 
